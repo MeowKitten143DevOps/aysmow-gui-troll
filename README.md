@@ -8,11 +8,7 @@ gui roblox
 
 ---
 
-## aperçu
-
 ![preview](lain.gif)
-
-> Remplace `./assets/preview.gif` par ton propre GIF (screen recording du menu en action)
 
 ## installation
 
