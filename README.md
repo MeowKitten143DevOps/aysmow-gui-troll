@@ -1,3 +1,22 @@
-# LE SCRIPT :
+# aysmow menu
 
-# loadstring(game:HttpGet("https://raw.githubusercontent.com/MeowKitten143DevOps/aysmow-gui-troll/refs/heads/main/caca.lua"))()
+[![Version](https://img.shields.io/badge/version-1.0-blue)]()
+[![Statut](https://img.shields.io/badge/status-active-success)]()
+[![Plateforme](https://img.shields.io/badge/platform-Roblox-black)]()
+
+gui roblox
+
+---
+
+## aperçu
+
+![preview](lain.gif)
+
+> Remplace `./assets/preview.gif` par ton propre GIF (screen recording du menu en action)
+
+## installation
+
+éxécute le script :
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MeowKitten143DevOps/aysmow-gui-troll/refs/heads/main/caca.lua"))()
