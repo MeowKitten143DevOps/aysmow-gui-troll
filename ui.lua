@@ -80,7 +80,7 @@ local InterfaceManager = {} do
 	
 		if Library.UseAcrylic then
 			section:AddToggle("AcrylicToggle", {
-				Title = "acrylic",
+				Title = "Acrylic",
 				Description = "il te faut des drivers nigger",
 				Default = Settings.Acrylic,
 				Callback = function(Value)
